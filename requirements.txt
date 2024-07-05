@@ -1,6 +1,5 @@
 asgiref
-CacheControl
-certif
+certifi==2024.7.4
 cffi
 charset-normalizer
 cleo
