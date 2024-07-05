@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ea!q3=4gap_y(lg!l!4$8b0j1dips97pn0550aysqpcgwh2e8m
 SECURE_SSL_REDIRECT = False  # For local development
 DEBUG = True
 SITE_ID = 1
-ALLOWED_HOSTS = ['localhost','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 MFA_PASSKEY_LOGIN_ENABLED = True
 ACCOUNT_LOGIN_BY_CODE_ENABLED = True
 CORS_ORIGIN_ALLOW_ALL = True
