@@ -1,7 +1,0 @@
-django
-django-allauth
-django-cors-headers
-django-oauth-toolkit
-djangorestframework
-python-dotenv
-
