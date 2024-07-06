@@ -1,5 +1,6 @@
 asgiref
 certifi==2024.7.4
+gunicorn
 cffi
 charset-normalizer
 cleo
